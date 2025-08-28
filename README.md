@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/LINUX-OASIS/VIRTUALIZATION-CONVERT-IMAGE-FILE-FORMATS?style=social)
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![GitHub issues](https://img.shields.io/github/issues/LINUX-OASIS/VIRTUALIZATION-CONVERT-IMAGE-FILE-FORMATS)
-![GitHub pull requests](https://img.shields.io/github/pull-requests/LINUX-OASIS/VIRTUALIZATION-CONVERT-IMAGE-FILE-FORMATS)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/LINUX-OASIS/VIRTUALIZATION-CONVERT-IMAGE-FILE-FORMATS)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 A user-friendly Bash script with a `whiptail` TUI to effortlessly convert virtual machine disk images between various formats.
